@@ -1,1 +1,0 @@
-print("Início do programa")

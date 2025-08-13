@@ -8,7 +8,7 @@ while n1 > 0:
     cont += 1
 
 if n1 < 0:
-    resto = n1 * (- 1)
+    resto = n1 + n2
     cont = cont - 1
 print("Resultado: ",cont)
 print("Resto: ",resto)
