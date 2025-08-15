@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/calcula_e.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/juros_deposito.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/leitura_numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/n_primos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/registradora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/estatisticas_transito.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/juros.py" beforeDir="false" afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/juros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
