@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/futebol.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ExerciciosFaculdade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ExerciciosFaculdade.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/fibonacci.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ExerciciosFaculdade.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/.idea/Python_Exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/.idea/vcs.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +98,7 @@
       <workItem from="1755036529263" duration="21000" />
       <workItem from="1755109764298" duration="28000" />
       <workItem from="1755357841303" duration="2734000" />
-      <workItem from="1755360613611" duration="306000" />
+      <workItem from="1755360613611" duration="351000" />
     </task>
     <servers />
   </component>
@@ -99,6 +106,7 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ExerciciosFaculdade$futebol.coverage" NAME="futebol Coverage Results" MODIFIED="1755360819460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
     <SUITE FILE_PATH="coverage/ExerciciosFaculdade$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1755359707123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
   </component>
 </project>
