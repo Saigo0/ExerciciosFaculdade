@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/bhaskara.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/brinquedos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/massa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/perfeito.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/triangulos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/triangulos_estendido.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/volumes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,11 +60,16 @@
     "Python.juros.executor": "Run",
     "Python.juros_deposito.executor": "Run",
     "Python.leitura_numeros.executor": "Run",
+    "Python.massa.executor": "Run",
     "Python.media.executor": "Run",
     "Python.n_primos.executor": "Run",
+    "Python.perfeito.executor": "Run",
     "Python.registradora.executor": "Run",
     "Python.soma_pares.executor": "Run",
+    "Python.triangulos.executor": "Run",
+    "Python.triangulos_estendido.executor": "Run",
     "Python.volume_esfera.executor": "Run",
+    "Python.volumes.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -75,8 +87,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
-        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
       </set>
     </attachedChunks>
   </component>
