@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="" />
+    <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/bhaskara.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +44,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.bhaskara.executor": "Run",
     "Python.calcula_e.executor": "Run",
     "Python.divisao_resto.executor": "Run",
     "Python.estatisticas_transito.executor": "Run",
@@ -90,6 +93,7 @@
       <workItem from="1755357841303" duration="2734000" />
       <workItem from="1755360613611" duration="351000" />
       <workItem from="1755360978121" duration="3583000" />
+      <workItem from="1755667885686" duration="303000" />
     </task>
     <servers />
   </component>
