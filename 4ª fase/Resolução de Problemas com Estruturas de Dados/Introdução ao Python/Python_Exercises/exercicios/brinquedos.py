@@ -8,12 +8,16 @@ esf15 = 0
 esf20 =0
 esf25 =0
 maiorQ25 = 0
+
+def calc_diag(a,b,c):
+    return math.sqrt(a**2 + b**2+c**2)
+
 while True:
     a = float(input("Digite o valor do comprimento da caixa: "))
     b = float(input("Digite o valor da largura da caixa: "))
     c = float(input("Digite o valor da altura da altura: "))
     if a > 0 and b > 0 and c > 0:
-        diag = math.sqrt(a**2 + b**2+c**2)
+        diag = calc_diag(a,b,c)
         if diag <= 10:
             esf10 += 1
             print("Esfera de 10 centímetros adicionada")
