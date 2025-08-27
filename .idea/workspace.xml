@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/acumula.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/busca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/letras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/menor_maior.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/negativo_zero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/transferencia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -114,7 +106,7 @@
       <workItem from="1755360613611" duration="351000" />
       <workItem from="1755360978121" duration="3583000" />
       <workItem from="1755667885686" duration="303000" />
-      <workItem from="1756253416646" duration="9089000" />
+      <workItem from="1756253416646" duration="9124000" />
     </task>
     <servers />
   </component>
