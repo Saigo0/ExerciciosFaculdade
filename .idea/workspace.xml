@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="75135783-bd07-4e28-8c32-7503652db03d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/repeticao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/apresenta_numeros.py" beforeDir="false" afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/apresenta_numeros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/repeticao.py" beforeDir="false" afterPath="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios/repeticao.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,54 +44,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.acumula.executor&quot;: &quot;Run&quot;,
-    &quot;Python.bhaskara.executor&quot;: &quot;Run&quot;,
-    &quot;Python.brinquedos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.calcula_e.executor&quot;: &quot;Run&quot;,
-    &quot;Python.divisao_resto.executor&quot;: &quot;Run&quot;,
-    &quot;Python.estatisticas_transito.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fibonacci.executor&quot;: &quot;Run&quot;,
-    &quot;Python.futebol.executor&quot;: &quot;Run&quot;,
-    &quot;Python.juros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.juros_deposito.executor&quot;: &quot;Run&quot;,
-    &quot;Python.leitura_numeros.executor&quot;: &quot;Run&quot;,
-    &quot;Python.letras.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lista_impares_primos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.massa.executor&quot;: &quot;Run&quot;,
-    &quot;Python.media.executor&quot;: &quot;Run&quot;,
-    &quot;Python.menor_maior.executor&quot;: &quot;Run&quot;,
-    &quot;Python.n_primos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.negativo_zero.executor&quot;: &quot;Run&quot;,
-    &quot;Python.perfeito.executor&quot;: &quot;Run&quot;,
-    &quot;Python.registradora.executor&quot;: &quot;Run&quot;,
-    &quot;Python.soma_pares.executor&quot;: &quot;Run&quot;,
-    &quot;Python.soma_posicoes.executor&quot;: &quot;Run&quot;,
-    &quot;Python.transferencia.executor&quot;: &quot;Run&quot;,
-    &quot;Python.triangulos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.triangulos_estendido.executor&quot;: &quot;Run&quot;,
-    &quot;Python.troca_elementos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.volume_esfera.executor&quot;: &quot;Run&quot;,
-    &quot;Python.volumes.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/joseo/OneDrive/Documentos/GitHub/ExerciciosFaculdade&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.acumula.executor": "Run",
+    "Python.bhaskara.executor": "Run",
+    "Python.brinquedos.executor": "Run",
+    "Python.calcula_e.executor": "Run",
+    "Python.divisao_resto.executor": "Run",
+    "Python.estatisticas_transito.executor": "Run",
+    "Python.fibonacci.executor": "Run",
+    "Python.futebol.executor": "Run",
+    "Python.juros.executor": "Run",
+    "Python.juros_deposito.executor": "Run",
+    "Python.leitura_numeros.executor": "Run",
+    "Python.letras.executor": "Run",
+    "Python.lista_impares_primos.executor": "Run",
+    "Python.massa.executor": "Run",
+    "Python.media.executor": "Run",
+    "Python.menor_maior.executor": "Run",
+    "Python.n_primos.executor": "Run",
+    "Python.negativo_zero.executor": "Run",
+    "Python.perfeito.executor": "Run",
+    "Python.registradora.executor": "Run",
+    "Python.repeticao.executor": "Run",
+    "Python.soma_pares.executor": "Run",
+    "Python.soma_posicoes.executor": "Run",
+    "Python.transferencia.executor": "Run",
+    "Python.triangulos.executor": "Run",
+    "Python.triangulos_estendido.executor": "Run",
+    "Python.troca_elementos.executor": "Run",
+    "Python.volume_esfera.executor": "Run",
+    "Python.volumes.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/joseo/OneDrive/Documentos/GitHub/ExerciciosFaculdade",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-b3ae9b5d7125-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.439" />
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
       </set>
     </attachedChunks>
   </component>
@@ -108,6 +112,7 @@
       <workItem from="1755360978121" duration="3583000" />
       <workItem from="1755667885686" duration="303000" />
       <workItem from="1756253416646" duration="9124000" />
+      <workItem from="1756594965462" duration="5018000" />
     </task>
     <servers />
   </component>
@@ -131,6 +136,7 @@
     <SUITE FILE_PATH="coverage/ExerciciosFaculdade$volume_esfera.coverage" NAME="volume_esfera Coverage Results" MODIFIED="1755363410033" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
     <SUITE FILE_PATH="coverage/ExerciciosFaculdade$menor_maior.coverage" NAME="menor_maior Coverage Results" MODIFIED="1756257330007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
     <SUITE FILE_PATH="coverage/ExerciciosFaculdade$futebol.coverage" NAME="futebol Coverage Results" MODIFIED="1755360819460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
+    <SUITE FILE_PATH="coverage/ExerciciosFaculdade$repeticao.coverage" NAME="repeticao Coverage Results" MODIFIED="1756600785309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
     <SUITE FILE_PATH="coverage/ExerciciosFaculdade$fibonacci.coverage" NAME="fibonacci Coverage Results" MODIFIED="1755359707123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
     <SUITE FILE_PATH="coverage/ExerciciosFaculdade$negativo_zero.coverage" NAME="negativo_zero Coverage Results" MODIFIED="1756257677360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
     <SUITE FILE_PATH="coverage/ExerciciosFaculdade$acumula.coverage" NAME="acumula Coverage Results" MODIFIED="1756263345186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4ª fase/Resolução de Problemas com Estruturas de Dados/Introdução ao Python/Python_Exercises/exercicios" />
