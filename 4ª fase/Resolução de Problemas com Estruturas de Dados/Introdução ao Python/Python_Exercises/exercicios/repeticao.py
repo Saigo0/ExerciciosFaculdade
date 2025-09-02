@@ -5,6 +5,7 @@ lista[2] = 2
 lista[3] = 3
 lista[4] = 4
 
+verificado = False
 verificados = [0] * 5
 
 for i in range(5):
@@ -13,6 +14,10 @@ for i in range(5):
         if lista[i] != verificados[j]:
             verificados [j] = lista[i]
         if lista[i] == lista[j]:
+            for k in range(len(verificados)):
+                if verificados[i] == lista [k]:
+                    verificado = True
+        if not verificado:
             cont += 1
     if cont > 1:
         cont -= 1
